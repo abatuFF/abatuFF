@@ -45,7 +45,7 @@ Here are the technologies, languages, and libraries I have expertise in:
         - [![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/)
 
 Contact me anytime if you want to collaborate, chat, or have questions about Backend. Sayōnara!
-[My Backend Developer CV](https://timplifier.github.io/CV/)
+[My Backend Developer CV](https://abatuFF.github.io/CV/)
 
 <div align="center">
   <a href="https://telegram.me/abatuFF"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
