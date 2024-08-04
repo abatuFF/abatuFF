@@ -2,6 +2,8 @@
 
 Hello, I am a **Backend Python Developer** specializing in web development. My technical skills in **Python, Django, OOP** and **SQL** form the basis of my development experience.
 
+
+[My Backend Developer CV](https://abatuff.github.io/CV/)
 ## My Focus Areas 🔍
 
 - **Developing interesting and challenging projects**: Implementing the most innovative technologies and working to grow as a developer  
